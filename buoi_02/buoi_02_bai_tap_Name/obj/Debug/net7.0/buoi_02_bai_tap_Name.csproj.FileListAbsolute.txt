@@ -1,0 +1,15 @@
+D:\CGO_csharp\buoi_02_bai_tap_Name\bin\Debug\net7.0\buoi_02_bai_tap_Name.exe
+D:\CGO_csharp\buoi_02_bai_tap_Name\bin\Debug\net7.0\buoi_02_bai_tap_Name.deps.json
+D:\CGO_csharp\buoi_02_bai_tap_Name\bin\Debug\net7.0\buoi_02_bai_tap_Name.runtimeconfig.json
+D:\CGO_csharp\buoi_02_bai_tap_Name\bin\Debug\net7.0\buoi_02_bai_tap_Name.dll
+D:\CGO_csharp\buoi_02_bai_tap_Name\bin\Debug\net7.0\buoi_02_bai_tap_Name.pdb
+D:\CGO_csharp\buoi_02_bai_tap_Name\obj\Debug\net7.0\buoi_02_bai_tap_Name.csproj.AssemblyReference.cache
+D:\CGO_csharp\buoi_02_bai_tap_Name\obj\Debug\net7.0\buoi_02_bai_tap_Name.GeneratedMSBuildEditorConfig.editorconfig
+D:\CGO_csharp\buoi_02_bai_tap_Name\obj\Debug\net7.0\buoi_02_bai_tap_Name.AssemblyInfoInputs.cache
+D:\CGO_csharp\buoi_02_bai_tap_Name\obj\Debug\net7.0\buoi_02_bai_tap_Name.AssemblyInfo.cs
+D:\CGO_csharp\buoi_02_bai_tap_Name\obj\Debug\net7.0\buoi_02_bai_tap_Name.csproj.CoreCompileInputs.cache
+D:\CGO_csharp\buoi_02_bai_tap_Name\obj\Debug\net7.0\buoi_02_bai_tap_Name.dll
+D:\CGO_csharp\buoi_02_bai_tap_Name\obj\Debug\net7.0\refint\buoi_02_bai_tap_Name.dll
+D:\CGO_csharp\buoi_02_bai_tap_Name\obj\Debug\net7.0\buoi_02_bai_tap_Name.pdb
+D:\CGO_csharp\buoi_02_bai_tap_Name\obj\Debug\net7.0\buoi_02_bai_tap_Name.genruntimeconfig.cache
+D:\CGO_csharp\buoi_02_bai_tap_Name\obj\Debug\net7.0\ref\buoi_02_bai_tap_Name.dll
