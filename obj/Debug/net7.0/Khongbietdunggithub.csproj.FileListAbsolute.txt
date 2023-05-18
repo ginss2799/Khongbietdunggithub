@@ -1,0 +1,5 @@
+D:\CGO_csharp\Khongbietdunggithub\obj\Debug\net7.0\Khongbietdunggithub.csproj.AssemblyReference.cache
+D:\CGO_csharp\Khongbietdunggithub\obj\Debug\net7.0\Khongbietdunggithub.GeneratedMSBuildEditorConfig.editorconfig
+D:\CGO_csharp\Khongbietdunggithub\obj\Debug\net7.0\Khongbietdunggithub.AssemblyInfoInputs.cache
+D:\CGO_csharp\Khongbietdunggithub\obj\Debug\net7.0\Khongbietdunggithub.AssemblyInfo.cs
+D:\CGO_csharp\Khongbietdunggithub\obj\Debug\net7.0\Khongbietdunggithub.csproj.CoreCompileInputs.cache
