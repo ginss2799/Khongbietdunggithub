@@ -1,0 +1,5 @@
+D:\csharp_baitap\buoi04\buoi04\obj\Debug\net5.0\buoi04.csproj.AssemblyReference.cache
+D:\csharp_baitap\buoi04\buoi04\obj\Debug\net5.0\buoi04.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_baitap\buoi04\buoi04\obj\Debug\net5.0\buoi04.AssemblyInfoInputs.cache
+D:\csharp_baitap\buoi04\buoi04\obj\Debug\net5.0\buoi04.AssemblyInfo.cs
+D:\csharp_baitap\buoi04\buoi04\obj\Debug\net5.0\buoi04.csproj.CoreCompileInputs.cache
