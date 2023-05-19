@@ -1,0 +1,15 @@
+D:\CGO_csharp\Khongbietdunggithub\buoi03-bmi\bin\Debug\net7.0\buoi03-bmi.exe
+D:\CGO_csharp\Khongbietdunggithub\buoi03-bmi\bin\Debug\net7.0\buoi03-bmi.deps.json
+D:\CGO_csharp\Khongbietdunggithub\buoi03-bmi\bin\Debug\net7.0\buoi03-bmi.runtimeconfig.json
+D:\CGO_csharp\Khongbietdunggithub\buoi03-bmi\bin\Debug\net7.0\buoi03-bmi.dll
+D:\CGO_csharp\Khongbietdunggithub\buoi03-bmi\bin\Debug\net7.0\buoi03-bmi.pdb
+D:\CGO_csharp\Khongbietdunggithub\buoi03-bmi\obj\Debug\net7.0\buoi03-bmi.csproj.AssemblyReference.cache
+D:\CGO_csharp\Khongbietdunggithub\buoi03-bmi\obj\Debug\net7.0\buoi03-bmi.GeneratedMSBuildEditorConfig.editorconfig
+D:\CGO_csharp\Khongbietdunggithub\buoi03-bmi\obj\Debug\net7.0\buoi03-bmi.AssemblyInfoInputs.cache
+D:\CGO_csharp\Khongbietdunggithub\buoi03-bmi\obj\Debug\net7.0\buoi03-bmi.AssemblyInfo.cs
+D:\CGO_csharp\Khongbietdunggithub\buoi03-bmi\obj\Debug\net7.0\buoi03-bmi.csproj.CoreCompileInputs.cache
+D:\CGO_csharp\Khongbietdunggithub\buoi03-bmi\obj\Debug\net7.0\buoi03-bmi.dll
+D:\CGO_csharp\Khongbietdunggithub\buoi03-bmi\obj\Debug\net7.0\refint\buoi03-bmi.dll
+D:\CGO_csharp\Khongbietdunggithub\buoi03-bmi\obj\Debug\net7.0\buoi03-bmi.pdb
+D:\CGO_csharp\Khongbietdunggithub\buoi03-bmi\obj\Debug\net7.0\buoi03-bmi.genruntimeconfig.cache
+D:\CGO_csharp\Khongbietdunggithub\buoi03-bmi\obj\Debug\net7.0\ref\buoi03-bmi.dll
